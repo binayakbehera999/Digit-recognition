@@ -1,0 +1,116 @@
+﻿Build started 05-11-2022 04:26:08 PM.
+     1>Project "C:\Users\binay\OneDrive\Documents\Visual Studio 2010\Projects\digit_recognition\digit_recognition\digit_recognition.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\digit_recognition.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\digit_recognition.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt digit_recognition.cpp
+         digit_recognition.cpp
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(73): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(82): warning C4244: 'initializing' : conversion from 'long double' to 'long', possible loss of data
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(86): warning C4244: '=' : conversion from 'long double' to 'long', possible loss of data
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(197): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(203): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(239): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(316): warning C4101: 'index' : unreferenced local variable
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(497): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(532): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(538): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(542): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(547): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(551): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(554): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(564): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(598): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(974): warning C4244: '=' : conversion from 'long double' to 'int', possible loss of data
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1072): warning C4244: '=' : conversion from 'long double' to 'int', possible loss of data
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1094): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1098): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1146): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1150): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1191): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1194): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1241): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1253): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1257): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1265): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1273): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1249): warning C4101: 'temp' : unreferenced local variable
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1336): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1342): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1375): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1376): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1380): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1387): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1419): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1420): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1461): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1463): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1473): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1485): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1498): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1509): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1514): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\binay\onedrive\documents\visual studio 2010\projects\digit_recognition\digit_recognition\digit_recognition.cpp(1538): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\binay\OneDrive\Documents\Visual Studio 2010\Projects\digit_recognition\Debug\digit_recognition.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\digit_recognition.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\binay\OneDrive\Documents\Visual Studio 2010\Projects\digit_recognition\Debug\digit_recognition.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\binay\OneDrive\Documents\Visual Studio 2010\Projects\digit_recognition\Debug\digit_recognition.lib" /MACHINE:X86 Debug\digit_recognition.exe.embed.manifest.res
+         Debug\digit_recognition.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\digit_recognition.exe.embed.manifest" /manifest Debug\digit_recognition.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         digit_recognition.vcxproj -> C:\Users\binay\OneDrive\Documents\Visual Studio 2010\Projects\digit_recognition\Debug\digit_recognition.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\digit_recognition.unsuccessfulbuild".
+         Touching "Debug\digit_recognition.lastbuildstate".
+     1>Done Building Project "C:\Users\binay\OneDrive\Documents\Visual Studio 2010\Projects\digit_recognition\digit_recognition\digit_recognition.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.91
